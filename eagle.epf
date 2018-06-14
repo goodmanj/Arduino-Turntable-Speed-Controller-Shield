@@ -1,0 +1,36 @@
+[Eagle]
+Version="09 00 01"
+Platform="Mac OS X"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/LilyPad-Wearables.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Boards.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Displays.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Passives.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-RF.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
+UsedLibrary="/Applications/EAGLE-6.5.0/lbr/rcl.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/ NHD-C0220BiZ board/NHD library.lbr"
+UsedLibrary="/Users/goodmanj/Documents/eagle/Temperature sensors/TMP112.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"
