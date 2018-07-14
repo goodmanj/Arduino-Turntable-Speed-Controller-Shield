@@ -1,0 +1,23 @@
+Partlist
+
+Exported from Arduino speed controller.sch at 6/14/18 12:25 PM
+
+EAGLE Version 9.0.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value             Device                Package              Library                    Sheet
+
+C1       10uF              CAP_POLPTH2           CPOL-RADIAL-10UF-25V SparkFun-Passives          1
+J1       AUDIO-JACK2KIT    AUDIO-JACK2KIT        AUDIO-JACK-KIT       SparkFun-Connectors        1
+J2       AUDIO-JACK2KIT    AUDIO-JACK2KIT        AUDIO-JACK-KIT       SparkFun-Connectors        1
+LCD                        M04PTH                1X04                 SparkFun-Connectors        1
+LED1     YELLOW            LED3MM                LED3MM               SparkFun-LED               1
+R1       10K               RESISTORPTH-1/4W      AXIAL-0.4            SparkFun-Passives          1
+R2       10K               RESISTORPTH-1/4W      AXIAL-0.4            SparkFun-Passives          1
+R3       220               RESISTORPTH-1/4W      AXIAL-0.4            SparkFun-Passives          1
+R4       10K               RESISTORPTH-1/4W      AXIAL-0.4            SparkFun-Passives          1
+S1       Slower            SWITCH-MOMENTARY-2PTH TACTILE-PTH          SparkFun-Electromechanical 1
+S2       Slower            SWITCH-MOMENTARY-2PTH TACTILE-PTH          SparkFun-Electromechanical 1
+S3       MHS122K           MHS122K               APEM-MHS122K         switches                   1
+U$1      ARDUINO_R3_SHIELD ARDUINO_R3_SHIELD     UNO_R3_SHIELD        SparkFun-Boards            1
